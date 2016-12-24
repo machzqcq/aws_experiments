@@ -4,6 +4,7 @@
 *.classpath
 *.settings
 *.project
+target/*
 
 # BlueJ files
 *.ctxt
