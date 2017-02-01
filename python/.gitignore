@@ -1,5 +1,6 @@
 */AwsCredentials.properties
 .idea/*
+venv/*
 *.class
 *.classpath
 *.settings
