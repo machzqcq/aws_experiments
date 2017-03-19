@@ -1,8 +1,8 @@
 var configConstants = {
-    auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
+      auth0: {
+        domain: 'seleniumframework.auth0.com',
+        clientId: ''
     },
-    apiBaseUrl: 'YOUR_API_BASE_URL_HERE_NO_TRAILING_SLASH',
-    firebaseUrl: 'YOUR_FIRE_BASE_URL_HERE_NO_TRAILING_SLASH'
+    apiBaseUrl: 'https://efozlwftn3.execute-api.us-east-1.amazonaws.com/dev',
+    firebaseUrl: 'https://serverless-course-5b630.firebaseio.com'
 };
